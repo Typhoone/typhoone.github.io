@@ -6,3 +6,22 @@
   height: auto;
   border-radius: 50%;
 }
+
+legend{
+  margin-bottom: 0px !important;
+}
+
+.icon{
+  height: 30px !important;
+  width: 30px !important;
+  margin: 5px !important;
+  overflow: hidden !important;
+}
+
+a:link{
+  color: blue;
+}
+
+a:visited{
+  color: lightblue;
+}
